@@ -1,0 +1,9 @@
+C:\Users\HASSAN\source\repos\hopfield1\hopfield1\bin\Debug\hopfield1.exe.config
+C:\Users\HASSAN\source\repos\hopfield1\hopfield1\bin\Debug\hopfield1.exe
+C:\Users\HASSAN\source\repos\hopfield1\hopfield1\bin\Debug\hopfield1.pdb
+C:\Users\HASSAN\source\repos\hopfield1\hopfield1\obj\Debug\hopfield1.csproj.AssemblyReference.cache
+C:\Users\HASSAN\source\repos\hopfield1\hopfield1\obj\Debug\hopfield1.Properties.Resources.resources
+C:\Users\HASSAN\source\repos\hopfield1\hopfield1\obj\Debug\hopfield1.csproj.GenerateResource.cache
+C:\Users\HASSAN\source\repos\hopfield1\hopfield1\obj\Debug\hopfield1.csproj.CoreCompileInputs.cache
+C:\Users\HASSAN\source\repos\hopfield1\hopfield1\obj\Debug\hopfield1.exe
+C:\Users\HASSAN\source\repos\hopfield1\hopfield1\obj\Debug\hopfield1.pdb
